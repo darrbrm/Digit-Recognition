@@ -1,18 +1,17 @@
-Flask==3.0.3
-Jinja2==3.1.4
-Werkzeug==3.0.3
-itsdangerous==2.0.1
+Flask
+Jinja2
+Werkzeug
+itsdangerous
 
 # Essential TensorFlow and Keras dependencies
-tensorflow==2.6.0
-tensorflow-io-gcs-filesystem==0.37.1
-keras==2.6.0
-tensorboard==2.6.0
-tensorboard-data-server==0.6.1
-h5py==3.1.0
+tensorflow
+tensorflow-io-gcs-filesystem
+keras
+tensorboard
+tensorboard-data-server
+h5py
 
 # Other necessary libraries
-numpy==1.21.2
-matplotlib==3.4.3
-Pillow==8.3.2
-requests==2.26.0
+numpy
+Pillow
+requests
