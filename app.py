@@ -9,8 +9,6 @@ app.config['UPLOAD_FOLDER'] = './uploads'
 app.config['MODEL_PATH'] = os.path.join(os.path.dirname(__file__),'digit_recognition_model.h5')
 
 # Load the pre-trained model
-
-# Load the pre-trained model
 model = load_model(app.config['MODEL_PATH'])
 
 # Function to preprocess image
